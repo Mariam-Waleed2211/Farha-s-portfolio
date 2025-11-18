@@ -102,10 +102,9 @@
     box-shadow: 0 4px 10p ;
     transition: transform 0.3s, box-shadow 0.3s;
 }
-/* Mobile adjustments */
 @media (max-width: 768px) {
     a {
-        margin: 50px auto;  /* center links horizontally */
+        margin: 100px auto;  /* center links horizontally */
         width: 70%;         /* adjust width for small screens */
         font-size: 14px;
         padding: 15px 0;
@@ -123,8 +122,6 @@
     }
 }
     
-    
-
 
 
 
