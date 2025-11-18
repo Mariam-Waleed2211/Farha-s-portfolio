@@ -62,7 +62,7 @@
     .contacts {
         flex-wrap: wrap;   /* allow multiple rows if needed */
         gap: 15px;
-        margin-top: 120px;
+        margin-top: -120px;
     }
 
     .contacts img {
@@ -72,6 +72,7 @@
 }
 
     
+
 
 
 
