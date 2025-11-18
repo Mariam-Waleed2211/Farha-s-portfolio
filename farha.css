@@ -50,40 +50,9 @@
     box-shadow: 0 4px 10p ;
     transition: transform 0.3s, box-shadow 0.3s;
 }
-/* Mobile adjustments */
- /* Mobile adjustments */
-@media (max-width: 768px) {
-    body {
-        display: flex;
-        flex-direction: column;
-        align-items: center;       /* center horizontally */
-        justify-content: center;   /* center vertically */
-        min-height: 100vh;
-        margin: 0;
-    }
-   a {
-        width: 80%;             /* adjust width */
-        text-align: center;     /* center text */
-        font-size: 14px;
-        padding: 25px 0;
-        margin: 8px 0;          /* small spacing between links */
-        display: block;
-    }
-    .contacts {
-        display: flex;
-        gap: 15px;
-        margin-top: 20px; /* small space below contacts */
-    }
 
-    .contacts img {
-        width: 50px;
-        height: 50px;
-    }
-
- 
-}
- 
     
+
 
 
 
